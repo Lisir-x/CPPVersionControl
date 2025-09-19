@@ -2,6 +2,7 @@
 
 int main()
 {
-	std::cout << "Main function" << std::endl;
+	//print welcome
+	std::cout << "Welcome!" << std::endl;
 	return 0;
 }
