@@ -1,8 +1,13 @@
 #include <iostream>
 
-int main()
+void greet()
 {
 	//print welcome
 	std::cout << "Welcome!" << std::endl;
+}
+
+int main()
+{
+	greet();
 	return 0;
 }
